@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tab21"
+        android:enabled="true"
+        android:icon="@drawable/ic_tab3"
+        android:title="받은요청"/>
+
+
+    <item
+        android:id="@+id/tab22"
+        android:enabled="true"
+        android:icon="@drawable/ic_tab4"
+        android:title="채팅"/>
+
+
+    <item
+        android:id="@+id/tab23"
+        android:enabled="true"
+        android:checked="true"
+        android:icon="@drawable/ic_tab_3"
+        android:title="프로필"/>
+
+    <item
+        android:id="@+id/tab24"
+        android:enabled="true"
+        android:icon="@drawable/ic_tab5"
+        android:title="마이페이지"/>
+
+
+
+</menu>

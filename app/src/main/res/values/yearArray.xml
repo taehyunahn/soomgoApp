@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_YearArray">
+        <item>0년</item>
+        <item>1년</item>
+        <item>2년</item>
+        <item>3년</item>
+        <item>4년</item>
+        <item>5년</item>
+        <item>6년</item>
+        <item>7년</item>
+        <item>8년</item>
+        <item>9년</item>
+        <item>10년</item>
+        <item>11년</item>
+        <item>12년</item>
+        <item>13년</item>
+        <item>14년</item>
+        <item>15년</item>
+        <item>16년</item>
+        <item>17년</item>
+        <item>18년</item>
+        <item>19년</item>
+        <item>20년</item>
+
+
+
+    </string-array>
+
+
+</resources>

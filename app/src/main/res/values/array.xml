@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_array">
+        <item>00시</item>
+        <item>01시</item>
+        <item>02시</item>
+        <item>03시</item>
+        <item>04시</item>
+        <item>05시</item>
+        <item>06시</item>
+        <item>07시</item>
+        <item>08시</item>
+        <item>09시</item>
+        <item>10시</item>
+        <item>11시</item>
+        <item>12시</item>
+        <item>13시</item>
+        <item>14시</item>
+        <item>15시</item>
+        <item>16시</item>
+        <item>17시</item>
+        <item>18시</item>
+        <item>19시</item>
+        <item>20시</item>
+        <item>21시</item>
+        <item>22시</item>
+        <item>23시</item>
+    </string-array>
+
+
+</resources>
