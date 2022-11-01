@@ -85,7 +85,7 @@ public class AccountUpdateActivity extends AppCompatActivity {
         sharedPreferences = getSharedPreferences("loginInfo", Activity.MODE_PRIVATE);
         userSeq = sharedPreferences.getString("userSeq", "");
         userEmail = sharedPreferences.getString("userEmail", "");
-        editor = sharedPreferences.edit();
+        editor = sharedPreferences.edit(); // 커밋 추가
 
     }
 
